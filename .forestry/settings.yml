@@ -10,12 +10,12 @@ sections:
   templates:
   - settings
 - type: directory
-  path: portfolio/newbooks
-  label: NewBooks
+  path: portfolio/workss
+  label: Works
   create: all
   match: "**/*"
   templates:
-  - NewBooks
+  - works
 - type: directory
   path: portfolio/journal
   label: Journal
