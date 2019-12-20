@@ -6,8 +6,7 @@
       top: '0',
       left: '0',
       width: '100%',
-      margin-bottom: '5px',
-    }"
+       }"
   >
 
     <nav v-if="navLinks" class="navigation left desktop-nav">
