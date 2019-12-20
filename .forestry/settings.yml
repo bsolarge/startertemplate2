@@ -7,7 +7,6 @@ sections:
 - type: document
   path: portfolio/addbooks
   label: Add Books
-  match: "**/*"
 - type: document
   path: portfolio/index.md
   label: Homepage
