@@ -4,6 +4,13 @@ auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: directory
+  path: portfolio
+  label: AddNewBook
+  create: all
+  match: "**/*"
+  templates:
+  - works
 - type: document
   path: portfolio/index.md
   label: Homepage
