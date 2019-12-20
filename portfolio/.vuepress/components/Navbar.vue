@@ -174,7 +174,7 @@
   .mobile-nav {
     display: block;
     position: absolute;
-    background: #ffffff;
+    background: #0f0f0f;
     top: 0;
     left: 0;
     width: 100vw;
