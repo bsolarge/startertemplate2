@@ -19,6 +19,7 @@ fields:
     maxSize: 250
   label: bio image
   description: insert for bio pic
+  default: "/upload/traceyimg.jpg"
 pages:
 - portfolio/index.md
 - portfolio/index.md
