@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
-  path: portfolio/addbooks
+  path: portfolio/works
   label: Add Books
 - type: document
   path: portfolio/index.md
