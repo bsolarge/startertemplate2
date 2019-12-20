@@ -8,6 +8,7 @@ hero_text: Tracey Williams is a trailblazer. She has contributed to Wow Magazine
   at heart. This gifted soul escapes it all by retreating to her tiny-house office,
   which houses her children's collections and inspirational books.
 title: Hero
+bio_image: "/upload/traceyimg.jpg"
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
