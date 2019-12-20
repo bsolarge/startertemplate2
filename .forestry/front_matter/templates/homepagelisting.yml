@@ -33,3 +33,11 @@ fields:
   - type: boolean
     name: external
     label: external
+- name: backgroundcolor
+  type: color
+  label: Bckgroundcolor
+  config:
+    required: false
+    color_format: Hex
+  description: Use for theme coloring
+  hidden: false
