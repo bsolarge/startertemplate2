@@ -13,6 +13,12 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- name: bio_image
+  type: file
+  config:
+    maxSize: 250
+  label: bio image
+  description: insert for bio pic
 pages:
 - portfolio/index.md
 - portfolio/index.md
