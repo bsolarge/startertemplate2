@@ -16,6 +16,13 @@ sections:
   match: "**/*"
   templates:
   - works
+  - type: directory
+  path: portfolio/newbooks
+  label: NewBooks
+  create: all
+  match: "**/*"
+  templates:
+  - NewBooks
 - type: directory
   path: portfolio/journal
   label: Journal
