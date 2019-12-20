@@ -1,0 +1,35 @@
+---
+label: Homepagelisting
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: footer
+  label: footer
+- type: file
+  name: favicon
+  label: favicon
+- type: field_group_list
+  name: navigation
+  label: navigation
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: position
+    label: position
+  - type: boolean
+    name: external
+    label: external
