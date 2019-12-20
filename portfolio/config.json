@@ -6,6 +6,12 @@
   "favicon": "/upload/favicon32px-1.png",
   "navigation": [
     {
+      "text": "New Release",
+      "link": "",
+      "position": "right",
+      "external": true
+    },
+    {
       "text": "Home",
       "link": "/",
       "position": "left",
